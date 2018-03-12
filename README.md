@@ -1,4 +1,5 @@
 # All-Aboid
+An artificial life progam
 
 # About
 
