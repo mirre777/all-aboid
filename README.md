@@ -1,5 +1,10 @@
 # All-Aboid
-An artificial life progam
+An artificial life progam based on Craig Reynolds' algorithmic steering behaviors for animated characters from 1986. I was also inspired by Daniel Shiffman's Nature of Code: http://natureofcode.com/.
+
+1. Craig Reynolds - Original 1986 Boids simulation: https://www.youtube.com/watch?v=86iQiV3-3IA
+2. Craig Reynolds Wikipedia: https://en.wikipedia.org/wiki/Craig_Reynolds_(computer_graphics)
+3. Craig Reynolds' page about the boid project: https://www.red3d.com/cwr/boids/
+
 
 # About
 
