@@ -12,6 +12,9 @@ A simulation of the flocking behaviour of birds based on three simple rules whic
 
 Simply said, they try not to crash into each other, adjust to each others speed and stay with the group.
 
+![alt text](https://github.com/mirre777/all-aboid/blob/master/boids_main.png)
+
+
 # Install
 
 # Deploy
