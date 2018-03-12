@@ -1,4 +1,5 @@
 # All-Aboid
+
 An artificial life progam based on Craig Reynolds' algorithmic steering behaviors for animated characters from 1986. I was also inspired by Daniel Shiffman's Nature of Code: http://natureofcode.com/.
 
 1. Craig Reynolds - Original 1986 Boids simulation: https://www.youtube.com/watch?v=86iQiV3-3IA
@@ -6,6 +7,7 @@ An artificial life progam based on Craig Reynolds' algorithmic steering behavior
 3. Craig Reynolds' page about the boid project: https://www.red3d.com/cwr/boids/
 
 Written in Javascript, using p5js (a JavaScript library that starts with the original goal of Processing) and WebGL.
+
 
 # About
 
@@ -28,7 +30,25 @@ Download p5js: https://p5js.org/download/ || or use these CDNs: https://cdnjs.co
 
 Add the scripts to your html head tag: https://p5js.org/get-started/. Pay attention to the order, see this codepen example if you need help: https://codepen.io/p5js/pen/wreBKy
 
+## Clone Repository
+
+1. On GitHub, navigate to the main page of the repository.
+
+2. Under the repository name, click Clone or download.
+
+3. In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+
+4. Open Terminal
+
+5. cd into the location where you want the cloned directory to be made
+
+6. Type git clone, and then paste the URL you copied in Step 2, like this:
+**$** git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+7. Press ENTER
+
 Start playing!
+
 
 # Help
 
@@ -46,7 +66,11 @@ Or Heroku: https://www.heroku.com/
 * **p5js** - A JavaScript library witht he original goal of Processing (Java): making code artists, designers, etc. A free, open-source software (https://p5js.org/). 
 * **WebGL** - A JavaScript API for rendering interactive 2D and 3D graphics (https://get.webgl.org/).
 
+
 # Acknowledgments
+
+Thank you Sage Jenson for helping with solving some issues: http://sagejenson.com/
+
 
 ## Inspiration 
 
