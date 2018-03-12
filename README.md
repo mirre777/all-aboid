@@ -32,6 +32,8 @@ Add the scripts to your html head tag: https://p5js.org/get-started/. Pay attent
 
 ## Clone Repository
 
+GitHub help: https://help.github.com/articles/cloning-a-repository/
+
 1. On GitHub, navigate to the main page of the repository.
 
 2. Under the repository name, click Clone or download.
